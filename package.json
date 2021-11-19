@@ -1,0 +1,15 @@
+{
+  "name": "scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^8.6.0",
+    "escodegen": "^2.0.0"
+  }
+}
